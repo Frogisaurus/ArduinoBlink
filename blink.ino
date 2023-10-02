@@ -1,4 +1,4 @@
-String str = "isa";
+String str = "BLINK MESSAGE HERE";
 
 int Led1 = 3;
 
